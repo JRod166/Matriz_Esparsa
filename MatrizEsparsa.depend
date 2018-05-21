@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1348443134 source:c:\users\amdvision\desktop\matrizesparsa\main.cpp
+	<iostream>
+	"MatrizEsparsa.h"
+
+1348443134 arsa.h"
+
+1348443316 c:\users\amdvision\desktop\matrizesparsa\matrizesparsa.h
+	"AVLTreeProxy.h"
+	"MatrizEsparsa_cpp.h"
+
+1349066421 arsa_cpp.h"
+
+1348440109 c:\users\amdvision\desktop\matrizesparsa\avltreeproxy.h
+	"AVLTree/AVLTree.h"
+	"AVLTree/Traits.h"
+
+1348440110 raits.h"
+
+1348440528 c:\users\amdvision\desktop\matrizesparsa\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347142258 pp.h"
+
+1347142258 c:\users\amdvision\desktop\matrizesparsa\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 c:\users\amdvision\desktop\matrizesparsa\avltree\avlnode_cpp.h
+
+1347105390 c:\users\amdvision\desktop\matrizesparsa\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1347105390 .h"
+
+1346341122 c:\users\amdvision\desktop\matrizesparsa\avltree\orderasc.h
+
+1346288544 c:\users\amdvision\desktop\matrizesparsa\avltree\orderdesc.h
+
+1348440528 c:\users\amdvision\desktop\matrizesparsa\avltree\avltree_cpp.h
+
+1348443338 c:\users\amdvision\desktop\matrizesparsa\matrizesparsa_cpp.h
+
+1349305804 source:d:\jose carrillo\estructuras de datos\matrizesparsa\main.cpp
+	<iostream>
+	"MatrizEsparsa.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1348708637 
+
+1349066422 d:\jose carrillo\estructuras de datos\matrizesparsa\matrizesparsa.h
+	"AVLTreeProxy.h"
+	"MatrizEsparsa_cpp.h"
+
+1348440110 d:\jose carrillo\estructuras de datos\matrizesparsa\avltreeproxy.h
+	"AVLTree/AVLTree.h"
+	"AVLTree/Traits.h"
+
+1348440530 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347142258 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\avlnode_cpp.h
+
+1347105390 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\orderasc.h
+
+1346288544 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\orderdesc.h
+
+1348440530 d:\jose carrillo\estructuras de datos\matrizesparsa\avltree\avltree_cpp.h
+
+1349066452 d:\jose carrillo\estructuras de datos\matrizesparsa\matrizesparsa_cpp.h
+
+1349066486 source:e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\main.cpp
+	<iostream>
+	"MatrizEsparsa.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1349066421 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\matrizesparsa.h
+	"AVLTreeProxy.h"
+	"MatrizEsparsa_cpp.h"
+
+1348440110 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltreeproxy.h
+	"AVLTree/AVLTree.h"
+	"AVLTree/Traits.h"
+
+1348440530 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347142258 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\avlnode_cpp.h
+
+1347105390 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\orderasc.h
+
+1346288544 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\orderdesc.h
+
+1348440530 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\avltree\avltree_cpp.h
+
+1349066450 e:\mis documentos\san pablo\iv semestre\algoritmos y estructuras de datos\matrizesparsa\matrizesparsa_cpp.h
+
+1349305805 source:/media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/main.cpp
+	<iostream>
+	"MatrizEsparsa.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1349066422 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/MatrizEsparsa.h
+	"AVLTreeProxy.h"
+	"MatrizEsparsa_cpp.h"
+
+1348440110 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTreeProxy.h
+	"AVLTree/AVLTree.h"
+	"AVLTree/Traits.h"
+
+1348440530 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/AVLTree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347142258 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/AVLNode.h
+	"AVLNode_cpp.h"
+
+1347104782 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/AVLNode_cpp.h
+
+1347105390 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/Traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/OrderAsc.h
+
+1346288544 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/OrderDesc.h
+
+1348440530 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/AVLTree/AVLTree_cpp.h
+
+1349066452 /media/J_CARRILLO/Estructuras de Datos/MatrizEsparsa/MatrizEsparsa_cpp.h
+
+1349305804 source:d:\angela\jose carrillo\estructuras de datos\matrizesparsa\main.cpp
+	<iostream>
+	"MatrizEsparsa.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1349066422 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\matrizesparsa.h
+	"AVLTreeProxy.h"
+	"MatrizEsparsa_cpp.h"
+
+1348440110 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltreeproxy.h
+	"AVLTree/AVLTree.h"
+	"AVLTree/Traits.h"
+
+1348440530 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347142258 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\avlnode_cpp.h
+
+1347105390 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\orderasc.h
+
+1346288544 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\orderdesc.h
+
+1348440530 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\avltree\avltree_cpp.h
+
+1349066452 d:\angela\jose carrillo\estructuras de datos\matrizesparsa\matrizesparsa_cpp.h
+
+1349305804 source:g:\documentos\c++\matrizesparsa\main.cpp
+	<iostream>
+	"MatrizEsparsa.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1349066422 g:\documentos\c++\matrizesparsa\matrizesparsa.h
+	"AVLTreeProxy.h"
+	"MatrizEsparsa_cpp.h"
+
+1348440110 g:\documentos\c++\matrizesparsa\avltreeproxy.h
+	"AVLTree/AVLTree.h"
+	"AVLTree/Traits.h"
+
+1348440530 g:\documentos\c++\matrizesparsa\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347142258 g:\documentos\c++\matrizesparsa\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 g:\documentos\c++\matrizesparsa\avltree\avlnode_cpp.h
+
+1347105390 g:\documentos\c++\matrizesparsa\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 g:\documentos\c++\matrizesparsa\avltree\orderasc.h
+
+1346288544 g:\documentos\c++\matrizesparsa\avltree\orderdesc.h
+
+1348440530 g:\documentos\c++\matrizesparsa\avltree\avltree_cpp.h
+
+1349066452 g:\documentos\c++\matrizesparsa\matrizesparsa_cpp.h
+

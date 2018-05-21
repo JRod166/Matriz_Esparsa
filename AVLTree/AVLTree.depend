@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1347489281 source:c:\users\amdvision\desktop\avltree\main.cpp
+	<iostream>
+	"AVLTree.h"
+	<stdlib.h>
+	<time.h>
+
+1347142258 c:\users\amdvision\desktop\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 c:\users\amdvision\desktop\avltree\avlnode_cpp.h
+
+1347491244 c:\users\amdvision\desktop\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<vector>
+	"AVLTree_cpp.h"
+
+1347491316 c:\users\amdvision\desktop\avltree\avltree_cpp.h
+
+1347105390 c:\users\amdvision\desktop\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 c:\users\amdvision\desktop\avltree\orderasc.h
+
+1346288544 c:\users\amdvision\desktop\avltree\orderdesc.h
+
+1347139650 c:\users\amdvision\desktop\avltree\random.h
+	<cstdlib>
+	<ctime>
+
+1347139295 source:c:\users\amdvision\desktop\avltree\random.cpp
+	"Random.h"
+
+1347143062 source:g:\avltree\main.cpp
+	<iostream>
+	"AVLTree.h"
+	<stdlib.h>
+	<time.h>
+
+1347154620 g:\avltree\avltree.h
+	"AVLNode.h"
+	"Traits.h"
+	<stack>
+	<iostream>
+	"AVLTree_cpp.h"
+
+1347142258 g:\avltree\avlnode.h
+	"AVLNode_cpp.h"
+
+1347104782 g:\avltree\avlnode_cpp.h
+
+1347105390 g:\avltree\traits.h
+	"OrderAsc.h"
+	"OrderDesc.h"
+
+1346341122 g:\avltree\orderasc.h
+
+1346288544 g:\avltree\orderdesc.h
+
+1347155468 g:\avltree\avltree_cpp.h
+
